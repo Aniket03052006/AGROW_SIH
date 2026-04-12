@@ -40,6 +40,23 @@
 | **Team ID** | 86238 |
 | **Category** | Software |
 
+---
+
+## 👥 Team
+
+**Team WhatTheHack (ID: 86238)**
+
+| Name |
+|------|
+| [Aniket Mandal (Team Leader)](https://github.com/Aniket2006) |
+| [Adith Jayakrishnan](https://github.com/adithjayakrishnan) |
+| [Achyuth A](https://github.com/achyuth2005) |
+| [Aditya Chauhan](https://github.com/adityac03007) |
+| Dhyan Shah |
+| [Priti Nag](https://github.com/priti140305) |
+
+---
+
 ### The Challenge
 
 Indian farmers face **reactive rather than proactive** crop monitoring:
@@ -702,20 +719,7 @@ flutter test --coverage
 flutter analyze
 ```
 
----
 
-## 👥 Team
-
-**Team WhatTheHack (ID: 86238)**
-
-| Name |
-|------|
-| [Aniket Mandal (Team Leader)](https://github.com/Aniket2006) |
-| [Adith Jayakrishnan](https://github.com/adithjayakrishnan) |
-| [Achyuth A](https://github.com/achyuth2005) |
-| [Aditya Chauhan](https://github.com/adityac03007) |
-| Dhyan Shah |
-| [Priti Nag](https://github.com/priti140305) |
 
 ---
 
