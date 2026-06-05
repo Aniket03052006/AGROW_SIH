@@ -52,7 +52,7 @@
 | [Adith Jayakrishnan](https://github.com/adithjayakrishnan) |
 | [Achyuth A](https://github.com/achyuth2005) |
 | [Aditya Chauhan](https://github.com/adityac03007) |
-| Dhyan Shah |
+| [Dhyan Shah] (https://github.com/itsmedhyanshah) |
 | [Priti Nag](https://github.com/priti140305) |
 
 ---
