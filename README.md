@@ -60,20 +60,10 @@
 
 | Document | Link |
 |----------|------|
-| 📄 **Report** | [View on Google Drive](https://drive.google.com/file/d/1xui5H8D6WWTO3NF83Y6n7ZA65OX1LxTb/view?usp=drive_link) |
-| 🎤 **Round 1 Pitch** | [View on Google Drive](https://drive.google.com/file/d/1K5HA80AHmlLV48oE4bugbVzVbZ8fOnui/view?usp=drive_link) |
-| 🏆 **Final Pitch 1** | [View on Google Drive](https://drive.google.com/file/d/1yIO9sKyRZjLgwC_g-Ve1qu3jleHxEBNW/view?usp=drive_link) |
-| 🏆 **Final Pitch 2** | [View on Google Drive](https://drive.google.com/file/d/1LIfYzPNAYnkbfJET6B5WZ7cfn-poDOYK/view?usp=sharing) |
-
----
-
-## 📄 Resources
-
-| Document | Link |
-|----------|------|
-| 🎯 **Solution Pitch** | [View on Google Drive](https://drive.google.com/file/d/1LIfYzPNAYnkbfJET6B5WZ7cfn-poDOYK/view?usp=drive_link) |
-| 💼 **Business Pitch** | [View on Google Drive](https://drive.google.com/file/d/1LIfYzPNAYnkbfJET6B5WZ7cfn-poDOYK/view?usp=drive_link) |
-| 🔬 **Tech Report** | [View on Google Drive](https://drive.google.com/file/d/1xui5H8D6WWTO3NF83Y6n7ZA65OX1LxTb/view?usp=drive_link) |
+|  **Technical Report** | [View on Google Drive](https://drive.google.com/file/d/1xui5H8D6WWTO3NF83Y6n7ZA65OX1LxTb/view?usp=drive_link) |
+|  **Round 1 Pitch** | [View on Google Drive](https://drive.google.com/file/d/1K5HA80AHmlLV48oE4bugbVzVbZ8fOnui/view?usp=drive_link) |
+|  **Solution Pitch** | [View on Google Drive](https://drive.google.com/file/d/1yIO9sKyRZjLgwC_g-Ve1qu3jleHxEBNW/view?usp=drive_link) |
+|  **Business Pitch** | [View on Google Drive](https://drive.google.com/file/d/1LIfYzPNAYnkbfJET6B5WZ7cfn-poDOYK/view?usp=sharing) |
 
 ---
 
